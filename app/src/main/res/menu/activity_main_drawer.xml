@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/delhi_list_menu_title"
+            android:title="Delhi" />
+        <item
+            android:id="@+id/agra_list_menu_title"
+            android:title="Agra" />
+        <item
+            android:id="@+id/mumbai_list_menu_title"
+            android:title="Mumbai" />
+        <item
+            android:id="@+id/rajasthan_list_menu_title"
+            android:title="Rajasthan" />
+    </group>
+
+</menu>
